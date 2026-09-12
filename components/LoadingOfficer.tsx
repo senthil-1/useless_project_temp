@@ -1,0 +1,1 @@
+export default function LoadingOfficer(){return <div className="card rounded-2xl p-8 text-center"><div className="mx-auto h-10 w-10 rounded-full border-4 border-[#ded6c9] border-t-[#6f1020] animate-spin"/><div className="serif text-xl mt-5">Officer reviewing…</div><p className="text-sm text-slate-500 mt-1">Please remain unnecessarily patient.</p></div>}

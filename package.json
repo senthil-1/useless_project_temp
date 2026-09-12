@@ -1,0 +1,36 @@
+{
+  "name": "ministry-of-useless-affairs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/libre-baskerville": "^5.3.0",
+    "@google/genai": "^2.22.0",
+    "@hookform/resolvers": "latest",
+    "firebase": "^12.19.0",
+    "lucide-react": "^1.45.0",
+    "next": "latest",
+    "opentype.js": "^2.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "latest",
+    "sharp": "^0.35.4",
+    "zod": "^4.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/opentype.js": "^1.3.10",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "^10.5.6",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.17",
+    "typescript": "latest"
+  }
+}
